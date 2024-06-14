@@ -24,7 +24,7 @@ Move your project directory to this directory - flask_image_classifier
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/yash0203patil/Assignment-for-Machine-Learning-Engineer.git
    cd <repository-directory>
    ```
 
