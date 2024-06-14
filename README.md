@@ -14,9 +14,9 @@ This project implements a web application for image classification using Flask. 
 ## Project Structure
 
 The repository structure is as follows:
-
+Move your project directory to this directory - flask_image_classifier
 - **app.py**: Flask application code for handling routes and image classification.
-- **model.pkl**: Pre-trained RandomForestClassifier model for image classification.
+- **random_forest_model_fs3.pkl**: Pre-trained RandomForestClassifier model for image classification.
 - **uploads/**: Directory to store temporarily uploaded images.
 - **templates/**: HTML templates for rendering web pages (`upload.html` for file upload form).
 
